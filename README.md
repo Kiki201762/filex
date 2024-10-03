@@ -1,12 +1,4 @@
-- Terima Kasih telah menggunakan bot whatsapp dari autoresbot.
-
-Channel Youtube : Azhari Creative
-
-Version : 3.5.2
-Website : autoresbot.com
-
-Jika Butuh Bantuan, Hubung Admin
-https://t.me/autoresbot_com
+- Terima Kasih telah menggunakan bot whatsapp dari gua
 
 # DILARANG MENJUAL BELIKAN SCRIPT INI
 
